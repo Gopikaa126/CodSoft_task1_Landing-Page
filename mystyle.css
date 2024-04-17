@@ -1,0 +1,85 @@
+body
+{
+    background-color:rgb(10, 2, 2);
+}
+img
+{
+    position:absolute;
+    top:15%;
+    right:65%;
+}
+.smile
+{
+    left:85%;
+    top:35%;
+}
+h1
+{
+    font-family:Lucida Handwriting;
+    color:rgb(150, 108, 30);
+    position:absolute;
+    top:20%;
+    left:40%;
+    font-size:xx-large;
+}
+h2
+{
+    color:brown; 
+    top:38%; 
+    left:45%;font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    position:absolute;
+}
+p
+{
+    color: rgb(146, 107, 107);
+    position:absolute;
+    left:45%;top:50%;
+    font-size: 21px;
+    text-align: justify;
+    right:2%;
+}
+
+.tags {
+    position: absolute;
+    top:5%;
+    font-size:20px;
+    left:60%;
+}
+.tags a{  margin-right:30px;
+    color:rgb(238, 225, 225); }
+
+.dropdown-content
+{
+    display:none;
+    position:absolute;
+    top:8%;
+    font-size:20px;
+    left:73%;
+    background-color: #0f0202;
+    min-width: 100px;    
+}
+.dropdown-content a
+{
+    color:rgb(227, 227, 241);
+    text-decoration:none;
+    display:block; /*it displays in the list of items*/
+}
+.dropdown a:hover  /*This is used to show the shadow of the user clicking text*/
+{
+    background-color:chocolate;
+}
+#publishers:target
+{
+    display:block;
+}
+
+
+
+.circle img{
+    width:80px;
+    border-radius: 50%;
+    border: 2px solid #ed7e2e;
+    left:91%;
+    top:3%;
+}
