@@ -4,5 +4,5 @@ https://github.com/Gopikaa126/CodSoft_task1_Landing-Page/assets/126545355/fc147d
 
 USED TECHNOLOGY
 
-HTML
+HTML,
 CSS
